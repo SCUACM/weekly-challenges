@@ -1,0 +1,22 @@
+Week 4: Zig Zag
+
+Given a string and a height for a zig zag pattern, zig zag the string and print it in zig-zag form.
+
+Example: zig_zag("COFFEE", 3)
+
+Zig-zagged form:  C  E
+	          O F E
+	          F
+
+Output: CEOFEF
+
+
+
+Example: zig_zag("COFFEE", 3)
+
+Zig-zagged form:  C
+	          O  E
+	          F E
+		  F
+
+Output: COEFEF
