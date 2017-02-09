@@ -12,7 +12,7 @@ Output: CEOFEF
 
 
 
-Example: zig_zag("COFFEE", 3)
+Example: zig_zag("COFFEE", 4)
 
 Zig-zagged form:  C
 	          O  E
